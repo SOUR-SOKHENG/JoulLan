@@ -4,7 +4,11 @@ const Home = () => {
   return (
     <div>
         <div className='Big-Main'>
-        <p>hot mes joy ery</p>
+
+         <p>hi jm</p>
+=======
+       
+
         </div>
     </div>
   );

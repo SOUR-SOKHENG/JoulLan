@@ -1,19 +1,7 @@
-import React from 'react'
-import '../General/Overall.css'
+import React from "react";
+import "../General/Overall.css";
 const Preview = () => {
-  return (
-    <div className='Big-Main'>
-        
-        
+  return <div className="Big-Main"></div>;
+};
 
-
-
-
-
-
-
-    </div>
-  )
-}
-
-export default Preview
+export default Preview;
