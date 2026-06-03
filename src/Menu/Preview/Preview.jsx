@@ -27,6 +27,7 @@ const Preview = () => {
             <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
               <span className="carousel-control-next-icon" aria-hidden="true"></span>
               <span className="visually-hidden">Next</span>
+              <p>Hello na</p>
             </button>
           </div>
       </section>
