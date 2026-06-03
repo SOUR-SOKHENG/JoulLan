@@ -1,17 +1,12 @@
-import React from 'react'
-import '../General/Overall.css'
+import React from "react";
+import "../General/Overall.css";
 const Home = () => {
   return (
     <div>
-        <div className='Big-Main'>
-
-         <p>hi jm</p>
-=======
-       
-
-        </div>
+      <div className="Big-Main"></div>
+      
     </div>
   );
-}
+};
 
-export default Home
+export default Home;
